@@ -14,7 +14,8 @@
 
 <div align="center">
   <img align="middle" src="https://github-readme-stats.vercel.app/api?username=Cyrille-Dakhlia&show_icons=true&count_private=true" alt="Cyrille's GitHub Stats" />
-  <img align="middle" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrille-Dakhlia&layout=compact&langs_count=7" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyrille-Dakhlia&theme=tokyonight_duo" alt="yamisagi" />
 </div>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyrille-Dakhlia&theme=tokyonight_duo" alt="yamisagi" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrille-Dakhlia&layout=compact&langs_count=7" />
+</div>
